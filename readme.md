@@ -1,4 +1,4 @@
-# Curso git desde cero
+ Curso git desde cero
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.t
 
 ## Zonas de Git
@@ -24,6 +24,3 @@ git config --global core.editor nano
 git config --list
 
 ```
-
-## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta barucrm88
