@@ -1,4 +1,4 @@
-# Curso git desde cero
+ Curso git desde cero
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.t
 
 ## Zonas de Git
@@ -24,6 +24,7 @@ git config --global core.editor nano
 git config --list
 
 ```
+<<<<<<< HEAD
 
 ## Aportes desde otra cuenta
 Este texto fue aportado desde la cuenta barucrm88
@@ -32,3 +33,5 @@ Este texto fue aportado desde la cuenta barucrm88
 ##Varios repositorios remotos
 Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios
 remotos.
+=======
+>>>>>>> 8fcc8244304df1cb31487046a58acf00950efbe8
