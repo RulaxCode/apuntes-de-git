@@ -24,14 +24,9 @@ git config --global core.editor nano
 git config --list
 
 ```
-<<<<<<< HEAD
 
 ## Aportes desde otra cuenta
 Este texto fue aportado desde la cuenta barucrm88
 
 
-##Varios repositorios remotos
-Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios
-remotos.
-=======
->>>>>>> 8fcc8244304df1cb31487046a58acf00950efbe8
+
