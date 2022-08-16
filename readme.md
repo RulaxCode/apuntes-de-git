@@ -24,3 +24,5 @@ git config --global core.editor nano
 git config --list
 
 ```
+
+esta linea es de prueba.
