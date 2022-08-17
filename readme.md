@@ -25,4 +25,12 @@ git config --list
 
 ```
 
+<<<<<<< HEAD
 esta linea es de prueba.
+=======
+## Aportes desde otra cuenta
+Este texto fue aportado desde la cuenta barucrm88
+
+
+
+>>>>>>> 9638332243233fc9d36a01c575ceae68c88f26f8
