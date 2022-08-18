@@ -25,10 +25,3 @@ git config --list
 
 ```
 
-
-esta linea es de prueba.
-
-## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta barucrm88
-
-Esta linea se agrego desde un equipo windows conectando al repositorio local con Github a través de HTTPS.
